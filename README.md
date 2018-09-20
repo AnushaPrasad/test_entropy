@@ -1,1 +1,1 @@
-# test_entropy
+# Entropy Function
